@@ -1,0 +1,7 @@
+SQL :
+USER1: tikitapp_user
+PASSWORD: tikitapp_password
+
+
+USER2: sa
+PASSWORD: p@ssw0rd
